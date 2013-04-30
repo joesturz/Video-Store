@@ -1,0 +1,1 @@
+This project is an example of my SQL, Java and JSP experience.  The project is a simple video rental store that executes several different queries that a video store would need for day to day business. This was a project was apart of the curriculum for the CS 5530 at the University of Utah.
